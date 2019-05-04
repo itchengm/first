@@ -14,6 +14,10 @@ public class TestSort {
         System.out.println(map0.get(null));
         Map map = new ConcurrentHashMap();
 
+
+
+
+
         Map map1 = new Hashtable();
 
         List<String> list = new ArrayList<String>();
