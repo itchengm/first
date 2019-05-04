@@ -23,6 +23,9 @@ public class TestSort {
         List<String> list = new ArrayList<String>();
 
         for(int i = 0;i<100;i++) {
+
+
+
             list.add("aa"+i);
         }
     }
