@@ -4,9 +4,6 @@ package com.example.registry.test;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- *
- */
 public class AlibabaTest {
 
     private static Boolean flag = true;
